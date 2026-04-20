@@ -7,7 +7,7 @@
 body {
     font-family: "Open Sans", sans-serif;
     background: linear-gradient(135deg, #1d2671, #c33764);
-    min-height: 100vh;
+    height: 100dvh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -31,6 +31,7 @@ h1 {
 }
 
 .status {
+    color: black;
     margin-bottom: 20px;
     font-size: 1.2rem;
     font-weight: bold;
